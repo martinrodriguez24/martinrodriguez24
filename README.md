@@ -4,12 +4,14 @@
 ### Conocimientos:
 
 - Javascript
-- Node
-- React
+- Nodejs
+- Expressjs
+
 - PHP
-- SQL
+- MySQL
+- Laravel
+
 - Python
-- Flask
 - Django
 
 ### Contacto:
