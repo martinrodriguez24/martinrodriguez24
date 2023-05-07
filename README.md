@@ -1,7 +1,7 @@
 # Martin Rodriguez Ristoff
-## Desarrollador frontend
+## Web Developer
 
-### Conocimientos:
+### Knowledge:
 
 - Javascript
 - Nodejs
@@ -14,7 +14,7 @@
 - Python
 - Django
 
-### Contacto:
+### Contact:
 - Email: [martinrodriguezristoff@gmail.com](mailto:martinrodriguezristoff@gmail.com)
 - LinkedIn: [linkedin.com/in/martin-rodriguez-ristoff](linkedin.com/in/martin-rodriguez-ristoff)
 <!---
