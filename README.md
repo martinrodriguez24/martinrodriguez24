@@ -1,6 +1,3 @@
-# 💾 About Me:
-Hi there! My name is Martin Rodriguez Ristoff and I'm a passionate software developer with 2 years of experience. My expertise lies in Laravel Framework, php, mysql, javascript, java, python, nodejs and django. And I have worked on several projects related to software development, particularly in the area of building CRM for enterprises.<br><br>I am a lifelong learner, always seeking to improve my skills and stay up-to-date with the latest technologies. I believe in clean, maintainable code and have a strong understanding of software development principles.<br><br>If you're interested in collaborating on a project or just want to connect, feel free to reach out! <br>
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/825093157955436574) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100042725272667) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/martinrodriguez_24) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/martin-rodriguez-ristoff) 
 
